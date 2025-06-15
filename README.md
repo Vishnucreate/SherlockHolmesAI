@@ -1,6 +1,5 @@
 # SherlockHolmesAI
-I tried a simple chrome extesnion for eye-ball tracking 
-## SherlockAI Lite — README
+
 
 ### 📦 Project Overview
 SherlockAI Lite is a lightweight, CSP-compliant Chrome extension that uses in-browser face-landmark detection to flag when a test‐taker looks away from their main screen during remote interviews or online exams. It injects TensorFlow.js UMD bundles locally—no remote scripts or `eval()`—and logs “🟢 Centered” or “🔴 Looking away” in the page console.
